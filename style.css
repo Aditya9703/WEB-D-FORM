@@ -1,0 +1,28 @@
+.textred{
+    color:red;
+}
+body{
+    background-image:url("https://i1.wp.com/godofindia.com/wp-content/uploads/2017/05/shahrukh-khan.jpg?resize=1024%2C636&ssl=1");
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+label{
+    text-transform:capitalize;
+    color:violet;
+}
+button{
+    background-color:black;
+    color:white;
+}
+.input_container{
+    padding:12px;
+    background-color:transparent;
+}
+.heading_1{
+    color:red;
+    border:2px solid green;
+    background-color:blue;
+    display:inline;
+    border:2px solid  violet;
+    margin:12px;
+}
